@@ -1483,12 +1483,155 @@ section.heading-page h2 {
   letter-spacing: 1px;
 }
 
+/*
+---------------------------------------------
+Thesis heading page
+---------------------------------------------
+*/
+
+section.thesis-heading-page {
+  background-image: url(../images/thesis-banner.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 230px;
+  padding-bottom: 110px;
+  text-align: center;
+}
+
+section.thesis-heading-page h6 {
+  margin-top: 0px;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+section.thesis-heading-page h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+
+/*
+---------------------------------------------
+phc heading page
+---------------------------------------------
+*/
+
+section.phc-heading-page {
+  background-image: url(../images/phc-banner.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 230px;
+  padding-bottom: 110px;
+  text-align: center;
+}
+
+section.phc-heading-page h6 {
+  margin-top: 0px;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+section.phc-heading-page h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+/*
+---------------------------------------------
+bath heading page
+---------------------------------------------
+*/
+
+section.bath-heading-page {
+  background-image: url(../images/bath-banner.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 230px;
+  padding-bottom: 110px;
+  text-align: center;
+}
+
+section.bath-heading-page h6 {
+  margin-top: 0px;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+section.bath-heading-page h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+/*
+---------------------------------------------
+para heading page
+---------------------------------------------
+*/
+
+section.para-heading-page {
+  background-image: url(../images/para-banner.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 230px;
+  padding-bottom: 110px;
+  text-align: center;
+}
+
+section.para-heading-page h6 {
+  margin-top: 0px;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+section.para-heading-page h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+
 
 /*
 ---------------------------------------------
 upcoming meetings page
 ---------------------------------------------
 */
+
 
 section.meetings-page {
   background-image: url(../images/meetings-page-bg.jpg);
@@ -1602,7 +1745,6 @@ section.meetings-page .pagination ul li a:hover {
   background-color: rgba(250,250,250,0.9);
   width: 80px;
   height: 80px;
-  text-align: center;
   padding: 15px 0px;
   border-radius: 10px;
   right: 20px;
